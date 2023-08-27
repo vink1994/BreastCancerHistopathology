@@ -21,10 +21,10 @@ DDN_InitSplits = 5
 DDN_NumSeed = 9
 DDN_TTrat = 0.4
 
-proj_dir    = "E:/PHD/shwetha_hyst_code/mkfold/BreaKHis_v1/BreaKHis_v1/histology_slides/breast/"
+proj_dir    = "E:/mkfold/BreaKHis_v1/BreaKHis_v1/histology_slides/breast/"
 # FOR 40X
 DDN_DS_Variant = "200X"
-MDL_PATH = "E:/PHD/shwetha_hyst_code/V6/trained_weights/200X_Mag.h5"
+MDL_PATH = "E:/V6/trained_weights/200X_Mag.h5"
 
 DDN_GEN_REsCSV = "MAG" + DDN_DS_Variant +".csv"
 DDN_GEN_REsFIG = "MAG" + DDN_DS_Variant + "DDN.jpg"
