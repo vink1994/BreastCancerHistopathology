@@ -26,7 +26,7 @@ DDN_InitSplits = 5
 DDN_NumSeed = 9
 DDN_TTrat = 0.2
 
-proj_dir    = "E:/PHD/shwetha_hyst_code/mkfold/BreaKHis_v1/BreaKHis_v1/histology_slides/breast/"
+proj_dir    = "E:/mkfold/BreaKHis_v1/BreaKHis_v1/histology_slides/breast/"
 DDN_DS_Variant = "400X"
 
 
